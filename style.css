@@ -120,12 +120,13 @@ h2 {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+    margin-bottom: 50px;
 }
 
 .work {
     /* display: inline-block; */
     width: 500px;
-    height: 400px;
+    height: 500px;
     margin-bottom: 80px;
     background-color: #ffffff;
 }
